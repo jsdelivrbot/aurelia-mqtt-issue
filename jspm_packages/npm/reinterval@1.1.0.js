@@ -1,0 +1,1 @@
+module.exports = require("npm:reinterval@1.1.0/index.js");

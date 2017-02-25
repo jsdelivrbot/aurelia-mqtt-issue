@@ -1,0 +1,1 @@
+module.exports = require("npm:mqtt@2.4.0/mqtt.js");

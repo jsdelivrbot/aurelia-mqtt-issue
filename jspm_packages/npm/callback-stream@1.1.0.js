@@ -1,0 +1,1 @@
+module.exports = require("npm:callback-stream@1.1.0/index.js");

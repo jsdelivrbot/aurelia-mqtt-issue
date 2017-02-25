@@ -1,0 +1,1 @@
+module.exports = require("npm:end-of-stream@1.0.0/index.js");

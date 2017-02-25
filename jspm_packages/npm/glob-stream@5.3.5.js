@@ -1,0 +1,1 @@
+module.exports = require("npm:glob-stream@5.3.5/index.js");

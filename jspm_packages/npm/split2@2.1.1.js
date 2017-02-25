@@ -1,0 +1,1 @@
+module.exports = require("npm:split2@2.1.1/index.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:path-dirname@1.0.2/index");

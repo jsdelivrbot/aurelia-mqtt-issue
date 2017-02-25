@@ -1,0 +1,1 @@
+module.exports = require("npm:extend-shallow@2.0.1/index.js");

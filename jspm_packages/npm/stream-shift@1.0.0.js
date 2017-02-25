@@ -1,0 +1,1 @@
+module.exports = require("npm:stream-shift@1.0.0/index.js");

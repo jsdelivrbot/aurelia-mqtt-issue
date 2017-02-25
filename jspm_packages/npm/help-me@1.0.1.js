@@ -1,0 +1,1 @@
+module.exports = require("npm:help-me@1.0.1/help-me.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:duplexify@3.5.0/index.js");
